@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gk2yTebVQJCdaSslkonTx7V3TK+x3vEGCBtYx7tqWWq/vOLnc9YkNUpRabOqlP8n9RYVjhSGE1ax9qxKpOyCOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\welli\\OneDrive\\Desktop\\Csharp\\Csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\welli\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\welli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\welli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\welli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Tobias",
+    "DataNascimento": "2020-10-10T00:00:00",
+    "CadastradoEm": "2024-04-15T20:07:21.0302452-03:00",
+    "Desconto": 10
+  },
+  {
+    "Id": 2,
+    "Nome": "Tortuga Returns",
+    "DataNascimento": "1997-09-05T00:00:00",
+    "CadastradoEm": "2024-04-15T20:10:10.9816911-03:00",
+    "Desconto": 999999
+  }
+]
